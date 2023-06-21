@@ -13,7 +13,7 @@
     "cheerio": "1.0.0-rc.1"
   },
   "devDependencies": {
-    "cson": "~4.1.0"
+    "cson": "~6.5.0"
   },
   "optionalDependencies": {
     "promise": "~7.3.1"
